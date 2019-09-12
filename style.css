@@ -7,6 +7,20 @@ a {
 
 }
 
+.content{
+  display: flex;
+}
+
+#section {
+  position: relative;
+}
+
+
 #pic1 {
-  float: none;
+  /* position: absolute;  */
+  right;
+}
+
+footer{
+  
 }
